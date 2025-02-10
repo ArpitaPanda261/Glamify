@@ -1,0 +1,11 @@
+node_modules/
+assets/
+android/
+ios/
+
+yarn.lock
+package.json
+app.json
+tsconfig.json
+babel.config.js
+metro.config.js
